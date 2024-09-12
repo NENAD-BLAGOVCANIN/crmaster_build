@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fee382f8.css",
-    "main.js": "/static/js/main.bf24002d.js",
+    "main.css": "/static/css/main.67b2da94.css",
+    "main.js": "/static/js/main.d76d0324.js",
     "static/js/453.a85726c6.chunk.js": "/static/js/453.a85726c6.chunk.js",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
@@ -18,15 +18,16 @@
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "static/media/fiverr.webp": "/static/media/fiverr.644e593f33f9db06afb0.webp",
     "static/media/tasks.svg": "/static/media/tasks.7f54cb1821dd83c9c25ec0b5e10095fd.svg",
+    "static/media/folder-lg.svg": "/static/media/folder-lg.df0e2890b4a120bea5b212a28a312fbd.svg",
     "static/media/folder.svg": "/static/media/folder.e00f77d60354c935aad148f63e859b72.svg",
     "index.html": "/index.html",
     "static/media/profile.svg": "/static/media/profile.97d514cb3a561d197e39af76f934e9be.svg",
-    "main.fee382f8.css.map": "/static/css/main.fee382f8.css.map",
-    "main.bf24002d.js.map": "/static/js/main.bf24002d.js.map",
+    "main.67b2da94.css.map": "/static/css/main.67b2da94.css.map",
+    "main.d76d0324.js.map": "/static/js/main.d76d0324.js.map",
     "453.a85726c6.chunk.js.map": "/static/js/453.a85726c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fee382f8.css",
-    "static/js/main.bf24002d.js"
+    "static/css/main.67b2da94.css",
+    "static/js/main.d76d0324.js"
   ]
 }
